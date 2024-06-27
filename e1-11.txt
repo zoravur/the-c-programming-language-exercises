@@ -1,0 +1,27 @@
+I would test the word count program with the following inputs:
+
+1 (words of variable length):
+a aa aaa aaaa
+
+2 (blank lines)
+a
+
+a
+
+3 (all blank):
+
+
+
+
+4 (weird characters):
+        
+
+5 (weird characters next to each other, first line ends with a blank):
+a 
+ a
+
+6 (char newline char):
+a
+a
+
+
